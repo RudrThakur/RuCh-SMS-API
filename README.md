@@ -1,2 +1,2 @@
 # RuCh-SMS-API
-Private SMS API for projects and stuff
+A self made API built in PHP, Android & MySQL
